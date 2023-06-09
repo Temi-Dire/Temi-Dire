@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Temidire</h1>
+<h1>Hi 👋, I'm Temidire</h1>
 <h3 align="center">I'm a Frontend Developer who likes seeking opportunities to expand my knowledge both personally and professionally.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=temi-dire&label=Profile%20views&color=0e75b6&style=flat" alt="temi-dire" /> </p>
