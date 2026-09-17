@@ -3,6 +3,7 @@
 <!-- ![Banner](https://github.com/Itzadetunji/Itzadetunji/blob/main/Banner.jpg) -->
 ### I'm Dire.
 ### I love coding, reading and gaming.
+### Most of my contributions over the past year are in this account - https://github.com/temidire-r17
 
 <h4>Top Languages 🗣️</h4>
 
