@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!-- ![Banner](https://github.com/Itzadetunji/Itzadetunji/blob/main/Banner.jpg) -->
-### I'm Owoeye Temidire.
+### I'm Dire.
 ### I love coding, reading and gaming.
 
 <h4>Top Languages 🗣️</h4>
