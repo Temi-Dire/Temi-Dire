@@ -63,6 +63,8 @@
 
 ---
 
+![streak](https://github-readme-streak-stats.herokuapp.com/?user=Temi-Dire)
+
 <!-- <h4 align="left">Git Stats</h4> -->
 
 
